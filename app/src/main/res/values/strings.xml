@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">L10_Guda_66443_Calculator</string>
+    <string-array name="base_no">
+        <item>2</item>
+        <item>8</item>
+        <item>10</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="calculation">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+
+
+</resources>
